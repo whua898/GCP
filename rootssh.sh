@@ -1,4 +1,4 @@
-#!   bash <(curl -L -s https://gist.github.com/whua898/rootssh.sh)
+#!   bash <(curl -L -s https://github.com/whua898/GCP/blob/master/rootssh.sh)
 
 
 sudo -i
